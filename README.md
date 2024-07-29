@@ -5,17 +5,10 @@ The project builds RESTful APIs using Node.js, Express and Mongoose, ...
 ## Frontend Links
 
 Github Link:
-
-```bash
-https://github.com/rectifier796/audiobook_frontend
-```
+### https://github.com/rectifier796/audiobook_frontend
 
 Deployment Link:
-
-```bash
-https://audiobook-frontend-bice.vercel.app/
-```
-
+### https://audiobook-frontend-bice.vercel.app/
 
 ## Manual Installation
 
