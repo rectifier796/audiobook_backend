@@ -43,27 +43,15 @@ PORT = # default 5001
 # URL of the Mongo DB
 MONGO_URL = mongodb://127.0.0.1:27017/database_name
 
+
 ## Project Structure
-
-```
-config\         # Database configuration
-controllers\    # Controllers
-middlewares\    # Custom express middlewares
-models\         # Mongoose models
-routes\         # Routes
-index.js        # App entry point
-```
-
-### A typical top-level directory layout
-
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
+    ├── config                   # Database Configuration
+    ├── controllers              # Controllers
+    ├── middlewares              # Middlewares
+    ├── models                   # Mongoose Models
+    ├── routes                   # Routes
+    ├── index.js                 #App entry point
 
 ### API Endpoints
 
