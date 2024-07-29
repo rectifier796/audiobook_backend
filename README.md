@@ -42,6 +42,7 @@ PORT = # default 5001
 
 # URL of the Mongo DB
 MONGO_URL = mongodb://127.0.0.1:27017/database_name
+```
 
 
 ## Project Structure
