@@ -62,6 +62,12 @@ MONGO_URL = mongodb://127.0.0.1:27017/database_name
     ├── routes                   # Routes
     ├── index.js                 #App entry point
 
+
+## Live Backend URL
+
+### https://audiobook-backend-theta.vercel.app
+This URL has the backend deployed in
+    
 ### API Endpoints
 
 List of available routes:
