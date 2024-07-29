@@ -46,12 +46,12 @@ MONGO_URL = mongodb://127.0.0.1:27017/database_name
 ## Project Structure
 
 ```
- |--config\         # Database configuration
- |--controllers\    # Controllers
- |--middlewares\    # Custom express middlewares
- |--models\         # Mongoose models
- |--routes\         # Routes
- |--index.js        # App entry point
+ config\         # Database configuration
+ controllers\    # Controllers
+ middlewares\    # Custom express middlewares
+ models\         # Mongoose models
+ routes\         # Routes
+ index.js        # App entry point
 ```
 
 ### API Endpoints
