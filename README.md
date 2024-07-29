@@ -7,7 +7,7 @@ The project builds RESTful APIs using Node.js, Express and Mongoose, ...
 Clone the repo:
 
 ```bash
-git clone [https://github.com/libeyondea/backend-node-express.git](https://github.com/rectifier796/audiobook_backend.git)
+git clone https://github.com/libeyondea/backend-node-express.git
 cd audiobook_backend
 ```
 
