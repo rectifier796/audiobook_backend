@@ -54,22 +54,16 @@ routes\         # Routes
 index.js        # App entry point
 ```
 
-## Project Structure
+### A typical top-level directory layout
 
-```
-public\             # Public folder
- |--index.html      # Static html
-src\
- |--config\         # Environment variables and configuration
- |--controllers\    # Controllers
- |--middlewares\    # Custom express middlewares
- |--models\         # Mongoose models
- |--routes\         # Routes
- |--services\       # Business logic
- |--utils\          # Utility classes and functions
- |--validations\    # Request data validation schemas
- |--index.js        # App entry point
-```
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
 
 ### API Endpoints
 
